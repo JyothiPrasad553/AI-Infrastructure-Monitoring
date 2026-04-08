@@ -101,7 +101,7 @@ This project supports Sustainable Development Goal 9 (Industry, Innovation, and 
 - Improved efficiency in infrastructure monitoring
 - Cost-effective maintenance strategy
 - Scalable AI-based solution
-  ## 📸 Project Screenshots
+  ##  Project Screenshots
 
 ### Login Page
 ![Login](Screenshot%202026-04-08%20215204.png)
