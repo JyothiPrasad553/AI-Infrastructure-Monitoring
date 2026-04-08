@@ -101,6 +101,16 @@ This project supports Sustainable Development Goal 9 (Industry, Innovation, and 
 - Improved efficiency in infrastructure monitoring
 - Cost-effective maintenance strategy
 - Scalable AI-based solution
+  ## 📸 Project Screenshots
+
+### Login Page
+![Login](Screenshot%202026-04-08%20215204.png)
+
+### Dashboard
+![Dashboard](Screenshot%202026-04-08%20220846.png)
+
+### Prediction Result
+![Result](Screenshot%202026-04-08%20221000.png)
   ## Security Note
 - Passwords are currently stored in plain text (for learning purpose)
 - In real-world applications, password hashing should be implemented
